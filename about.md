@@ -1,2 +1,0 @@
-# Thoughts from Everyone
-
