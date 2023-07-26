@@ -1,4 +1,4 @@
-# Extending Visual Studio: Test Explorer
+# Extending Visual Studio: Test Explorer (Work in progress)
 
 ## Documentation? What Documentation?
 
